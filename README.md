@@ -43,14 +43,6 @@ stanley = {
   <img src="https://img.shields.io/badge/Also-PCBs_%26_firmware-16A34A?style=for-the-badge" alt="Also: PCBs and firmware" />
 </p>
 
-## 📊 stats that actually matter
-
-| | |
-| :-- | --: |
-| bugs fixed | 47 |
-| bugs created while fixing those 47 | 52 |
-| Claude agents running on my laptop right now | probably 6 |
-
 ## snake :p 🐍
 
 <picture>
