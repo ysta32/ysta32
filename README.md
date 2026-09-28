@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/coding-at-night.gif" width="360" alt="Pixel-art person coding at a desk at night" />
+<img src="assets/lofi-desk.gif" width="480" alt="Lo-fi girl studying at her desk with headphones and an orange cat" />
 
 <a href="https://github.com/ysta32">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=600&height=40&lines=running+a+small+army+of+Claude+agents;git+commit+-m+%22final+final+v2%22;soldering+things+that+(mostly)+don't+smoke" alt="running a small army of Claude agents · git commit -m 'final final v2' · soldering things that (mostly) don't smoke" />
