@@ -10,6 +10,10 @@
 
 </div>
 
+## 👋 about me
+
+I'm a CIS student at Penn who builds Mac apps, AI agents and the occasional circuit board. Also: 4000 hours spent on Minecraft.
+
 ```python
 stanley = {
     "school":    "Penn SEAS, CIS BSE '30 (AI concentration)",
