@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:C026D3&height=160&section=header&text=hey,%20I'm%20Stanley&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Penn%20Engineering%20'30%20%C2%B7%20CIS%20%2B%20AI&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="hey, I'm Stanley" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,100:F59E0B&height=160&section=header&text=hey,%20I'm%20Stanley&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Penn%20Engineering%20'30%20%C2%B7%20CIS%20%2B%20AI&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="hey, I'm Stanley" />
 
 <div align="center">
 
 <a href="https://github.com/ysta32">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=running+a+small+army+of+Claude+agents;git+commit+-m+%22final+final+v2%22;soldering+things+that+(mostly)+don't+smoke" alt="running a small army of Claude agents · git commit -m 'final final v2' · soldering things that (mostly) don't smoke" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=600&height=40&lines=running+a+small+army+of+Claude+agents;git+commit+-m+%22final+final+v2%22;soldering+things+that+(mostly)+don't+smoke" alt="running a small army of Claude agents · git commit -m 'final final v2' · soldering things that (mostly) don't smoke" />
 </a>
 
 </div>
@@ -61,4 +61,4 @@ stanley = {
 
 Got a hardware project, a hackathon team, or a date your calendar app got wrong? → <a href="mailto:ysta@engineering.upenn.edu"><b>ysta@engineering.upenn.edu</b></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:C026D3&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,100:F59E0B&height=100&section=footer" width="100%" alt="" />
