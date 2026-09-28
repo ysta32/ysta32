@@ -48,7 +48,6 @@ stanley = {
 | bugs fixed | 47 |
 | bugs created while fixing those 47 | 52 |
 | Claude agents running on my laptop right now | probably 6 |
-| tabs open | don't |
 
 ## 🐍 my contribution graph, being eaten
 
