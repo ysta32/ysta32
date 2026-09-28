@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ysta32">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=teaching+my+to-do+app+what+%22next+friday%22+means;shipping+agents+that+ask+before+they+book;soldering+things+that+(mostly)+don't+smoke;running+a+small+army+of+Claude+agents" alt="teaching my to-do app what 'next friday' means · shipping agents that ask before they book · soldering things that (mostly) don't smoke · running a small army of Claude agents" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=running+a+small+army+of+Claude+agents;git+commit+-m+%22final+final+v2%22;soldering+things+that+(mostly)+don't+smoke;it+compiled.+no+idea+why.;sleep+is+a+feature+request" alt="running a small army of Claude agents · git commit -m 'final final v2' · soldering things that (mostly) don't smoke · it compiled. no idea why. · sleep is a feature request" />
 </a>
 
 </div>
