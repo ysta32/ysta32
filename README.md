@@ -47,7 +47,6 @@ stanley = {
 | :-- | --: |
 | bugs fixed | 47 |
 | bugs created while fixing those 47 | 52 |
-| times I've said "ok last commit" tonight | 11 |
 | Claude agents running on my laptop right now | probably 6 |
 | tabs open | don't |
 
