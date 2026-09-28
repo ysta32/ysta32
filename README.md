@@ -53,12 +53,12 @@ stanley = {
   <img src="https://img.shields.io/badge/Also-PCBs_%26_firmware-16A34A?style=for-the-badge" alt="Also: PCBs and firmware" />
 </p>
 
-## snake :p 🐍
+## pac-man :p 👾
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ysta32/ysta32/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysta32/ysta32/output/github-snake.svg" />
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/ysta32/ysta32/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ysta32/ysta32/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysta32/ysta32/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/ysta32/ysta32/output/pacman-contribution-graph.svg" />
 </picture>
 
 ## 📬 say hi
