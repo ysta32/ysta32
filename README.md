@@ -23,7 +23,7 @@ stanley = {
 | | |
 | :-- | :-- |
 | 📝 **[Docket](https://github.com/ysta32/Docket-App)**<br/><sub>Swift · SwiftUI · SQLite</sub> | A macOS to-do app you text like a friend: `cis hw due wed midnight, big one`. It understands English and Chinese, puts up an amber **?** instead of guessing when a date is sketchy, and ships its own MCP server so Claude can add your homework for you. |
-| 🤖 **[Plec Concierge](https://github.com/ysta32/PlecAIHackathon)**<br/><sub>JavaScript · Node</sub> | A hackathon booking agent that won't book anything until you actually say yes. "yes I think so" doesn't count, and that rule lives in code, not the prompt. 60/60 tests green. Built with Bryan Chen in one afternoon. |
+| 🤖 **[Plec Concierge](https://github.com/ysta32/PlecAIHackathon)**<br/><sub>JavaScript · Node</sub> | A hackathon booking agent that won't book anything until you actually say yes. "yes I think so" doesn't count, and that rule lives in code, not the prompt. Every test suite green. Built with Bryan Chen in one afternoon. |
 | ⚔️ **[Swiffle](https://github.com/ysta32/Swiffle)**<br/><sub>React · Express · Socket.IO</sub> | Kahoot for the SAT, but you can fight your friends. Real-time rooms, points that decay the longer you think, and a 1v1 mode where out-scoring someone hits their HP bar. |
 | 💸 **[Zeno](https://github.com/ysta32/ZenoStableCoin)**<br/><sub>React · TypeScript · Vite</sub> | A prototype stablecoin payroll dashboard: pay contractors in 15 time zones in about 3 minutes. [Poke the live demo →](https://zeno-stable-coin.vercel.app) |
 
