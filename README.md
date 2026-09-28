@@ -57,20 +57,6 @@ stanley = {
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/ysta32/ysta32/output/github-snake.svg" />
 </picture>
 
-<details>
-<summary><b>🚨 do not click this</b></summary>
-<br/>
-
-you clicked it. here's a random dev joke as punishment (refresh for a new one):
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=light&hideBorder" />
-  <img alt="A random programming joke" src="https://readme-jokes.vercel.app/api?theme=light&hideBorder" />
-</picture>
-
-</details>
-
 ## 📬 say hi
 
 Got a hardware project, a hackathon team, or a date your calendar app got wrong? → <a href="mailto:ysta@engineering.upenn.edu"><b>ysta@engineering.upenn.edu</b></a>
