@@ -14,7 +14,6 @@ stanley = {
     "builds":    ["Mac apps", "AI agents", "custom PCBs", "embedded systems"],
     "speaks":    ["Python", "Java", "C#", "Swift", "TypeScript"],
     "right_now": "an AI to-do app that talks to Canvas, Google Calendar, Gmail and Claude",
-    "hot_take":  "if a date could mean two things, ask. don't guess.",
 }
 ```
 
@@ -23,7 +22,7 @@ stanley = {
 | | |
 | :-- | :-- |
 | 📝 **[Docket](https://github.com/ysta32/Docket-App)**<br/><sub>Swift · SwiftUI · SQLite</sub> | A to-do app for people who hate to-do apps. Text it `cis hw due wed midnight, big one` and it figures out the rest. |
-| 🤖 **[Plec Concierge](https://github.com/ysta32/PlecAIHackathon)**<br/><sub>JavaScript · Node</sub> | Tell it you need a venue for 40 people on Friday and it finds one, prices it and books it. Built at a hackathon with Bryan Chen in one afternoon. |
+| 🤖 **[Plec Concierge](https://github.com/ysta32/PlecAIHackathon)**<br/><sub>JavaScript · Node</sub> | Tell it you need a venue for 40 people on Friday and it finds one, prices it and books it. |
 | ⚔️ **[Swiffle](https://github.com/ysta32/Swiffle)**<br/><sub>React · Express · Socket.IO</sub> | Kahoot for the SAT, but you get to fight your friends. Answer fast or lose HP. |
 | 💸 **[Zeno](https://github.com/ysta32/ZenoStableCoin)**<br/><sub>React · TypeScript · Vite</sub> | Pay your team anywhere in the world in about three minutes, with stablecoins. [Try the demo →](https://zeno-stable-coin.vercel.app) |
 
