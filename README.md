@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="assets/coding-at-night.gif" width="360" alt="Pixel-art person coding at a desk at night" />
+
 <a href="https://github.com/ysta32">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=600&height=40&lines=running+a+small+army+of+Claude+agents;git+commit+-m+%22final+final+v2%22;soldering+things+that+(mostly)+don't+smoke" alt="running a small army of Claude agents · git commit -m 'final final v2' · soldering things that (mostly) don't smoke" />
 </a>
@@ -49,7 +51,7 @@ stanley = {
 | bugs created while fixing those 47 | 52 |
 | Claude agents running on my laptop right now | probably 6 |
 
-## 🐍 my contribution graph, being eaten
+## snake :p 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ysta32/ysta32/output/github-snake-dark.svg" />
