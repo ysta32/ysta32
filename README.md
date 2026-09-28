@@ -39,7 +39,7 @@ stanley = {
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/Also-PCBs_%26_firmware-16A34A?style=for-the-badge&logo=arduino&logoColor=white" alt="Also: PCBs and firmware" />
+  <img src="https://img.shields.io/badge/Also-PCBs_%26_firmware-16A34A?style=for-the-badge" alt="Also: PCBs and firmware" />
 </p>
 
 ## 🐍 my contribution graph, being eaten
