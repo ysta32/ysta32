@@ -12,7 +12,9 @@
 
 ## 👋 about me
 
-I'm a CIS student at Penn who builds Mac apps, AI agents and the occasional circuit board. Also: 4000 hours spent on Minecraft.
+I'm a CIS student at Penn who builds Mac apps, AI agents and the occasional circuit board.
+
+hours spent on minecraft: 4000
 
 favorite pokémon: Onix
 
