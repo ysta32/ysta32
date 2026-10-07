@@ -33,11 +33,11 @@ stanley = {
 
 | | |
 | :-- | :-- |
-| 🎙️ **Cue** <sub>(private)</sub><br/><sub>SwiftUI · FastAPI · Claude</sub> | A voice-first planner for college students. Hit a hotkey, say what you've got going on, and it lands in your day. Building it with Jimmy. |
-| 🗣️ **Ramble** <sub>(private)</sub><br/><sub>Next.js · TypeScript · Supabase</sub> | Talk it out. Ramble turns voice memos into summaries, to-dos, ideas and decisions, tracked by day and by project. |
-| 🐛 **[Squash](https://github.com/ysta32/squash)**<br/><sub>React · TypeScript · Supabase</sub> | Bug reports your cofounder actually reads. Paste a screenshot or just talk, and the bug shows up live on their screen. Then let Claude Code fix it. [Try it →](https://squash-livid.vercel.app) |
-| 💸 **[Zeno](https://github.com/ysta32/ZenoStableCoin)**<br/><sub>React · TypeScript · Vite</sub> | Pay your team anywhere in the world in about three minutes, with stablecoins. [Try the demo →](https://zeno-stable-coin.vercel.app) |
-| ⚔️ **Swiffle** <sub>(private)</sub><br/><sub>React · Express · Socket.IO</sub> | Kahoot for the SAT, but you get to fight your friends. Answer fast or lose HP. |
+| 🎙️ **[Cue](https://cue-planner.vercel.app)**<br/><sub>SwiftUI · FastAPI · Claude</sub> | A voice-first planner for college students. Press ⌥Space anywhere, say `physics pset due thursday 5pm`, and it lands on your day. Building it with Jimmy. |
+| 🗣️ **[Ramble](https://ramble-plum.vercel.app)**<br/><sub>Next.js · TypeScript · Supabase</sub> | Talk it out. Ramble turns voice memos into summaries, to-dos, ideas and decisions, tracked by day and by project. |
+| 🐛 **[Squash](https://squash-livid.vercel.app)**<br/><sub>React · TypeScript · Supabase</sub> | Bug reports your cofounder actually reads. Paste a screenshot or just talk, and the bug shows up live on their screen. Then let Claude Code fix it. [Code →](https://github.com/ysta32/squash) |
+| 💸 **[Zeno](https://github.com/ysta32/ZenoStableCoin)**<br/><sub>React · TypeScript · Vite</sub> | Pay your team anywhere in the world in about three minutes, with stablecoins. |
+| ⚔️ **[Swiffle](https://swiffle.vercel.app)**<br/><sub>React · Express · Socket.IO</sub> | Kahoot for the SAT, but you get to fight your friends. Answer fast or lose HP. |
 
 ## 🧰 toolbox
 
