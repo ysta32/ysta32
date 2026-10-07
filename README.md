@@ -33,11 +33,11 @@ stanley = {
 
 | | |
 | :-- | :-- |
-| 📝 **[Docket](https://github.com/ysta32/Docket-App)**<br/><sub>Swift · SwiftUI · SQLite</sub> | A to-do app for people who hate to-do apps. Text it `cis hw due wed midnight, big one` and it figures out the rest. |
-| 🤖 **[Plec Concierge](https://github.com/ysta32/PlecAIHackathon)**<br/><sub>JavaScript · Node</sub> | Tell it you need a venue for 40 people on Friday and it finds one, prices it and books it. |
-| ⚔️ **Swiffle** <sub>(private)</sub><br/><sub>React · Express · Socket.IO</sub> | Kahoot for the SAT, but you get to fight your friends. Answer fast or lose HP. |
+| 🎙️ **Cue** <sub>(private)</sub><br/><sub>SwiftUI · FastAPI · Claude</sub> | A voice-first planner for college students. Hit a hotkey, say what you've got going on, and it lands in your day. Building it with Jimmy. |
+| 🗣️ **Ramble** <sub>(private)</sub><br/><sub>Next.js · TypeScript · Supabase</sub> | Talk it out. Ramble turns voice memos into summaries, to-dos, ideas and decisions, tracked by day and by project. |
+| 🐛 **[Squash](https://github.com/ysta32/squash)**<br/><sub>React · TypeScript · Supabase</sub> | Bug reports your cofounder actually reads. Paste a screenshot or just talk, and the bug shows up live on their screen. Then let Claude Code fix it. [Try it →](https://squash-livid.vercel.app) |
 | 💸 **[Zeno](https://github.com/ysta32/ZenoStableCoin)**<br/><sub>React · TypeScript · Vite</sub> | Pay your team anywhere in the world in about three minutes, with stablecoins. [Try the demo →](https://zeno-stable-coin.vercel.app) |
-| 🐛 **[Squash](https://github.com/ysta32/squash)**<br/><sub>React · TypeScript · Supabase</sub> | Bug reports your cofounder actually reads. Paste a screenshot or just talk, and the bug shows up live on their screen. |
+| ⚔️ **Swiffle** <sub>(private)</sub><br/><sub>React · Express · Socket.IO</sub> | Kahoot for the SAT, but you get to fight your friends. Answer fast or lose HP. |
 
 ## 🧰 toolbox
 
