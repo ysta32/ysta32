@@ -29,15 +29,15 @@ stanley = {
 }
 ```
 
-## 🛠️ stuff I made
+## `$ ls ~/projects`
 
-| | |
-| :-- | :-- |
-| 🎙️ **[Cue](https://cue-planner.vercel.app)**<br/><sub>SwiftUI · FastAPI · Claude</sub> | A voice-first planner for college students. Press ⌥Space anywhere, say `physics pset due thursday 5pm`, and it lands on your day. Building it with Jimmy. |
-| 🗣️ **[Ramble](https://ramble-plum.vercel.app)**<br/><sub>Next.js · TypeScript · Supabase</sub> | Talk it out. Ramble turns voice memos into summaries, to-dos, ideas and decisions, tracked by day and by project. |
-| 🐛 **[Squash](https://squash-livid.vercel.app)**<br/><sub>React · TypeScript · Supabase</sub> | Bug reports your cofounder actually reads. Paste a screenshot or just talk, and the bug shows up live on their screen. Then let Claude Code fix it. [Code →](https://github.com/ysta32/squash) |
-| 💸 **[Zeno](https://github.com/ysta32/ZenoStableCoin)**<br/><sub>React · TypeScript · Vite</sub> | Pay your team anywhere in the world in about three minutes, with stablecoins. |
-| ⚔️ **[Swiffle](https://swiffle.vercel.app)**<br/><sub>React · Express · Socket.IO</sub> | Kahoot for the SAT, but you get to fight your friends. Answer fast or lose HP. |
+| | project | what it does | stack |
+| :-: | :-- | :-- | :-- |
+| <img src="assets/icons/cue.png" width="40" alt="Cue icon" /> | **[cue](https://cue-planner.vercel.app)** | a mac planner you just talk to | `swiftui` `fastapi` `claude` |
+| <img src="assets/icons/ramble.png" width="40" alt="Ramble icon" /> | **[ramble](https://ramble-plum.vercel.app)** | voice memos in, to-dos and ideas out | `next.js` `typescript` `supabase` |
+| <img src="assets/icons/squash.png" width="40" alt="Squash icon" /> | **[squash](https://squash-livid.vercel.app)** | bug reports that pop up live for your cofounder | `react` `typescript` `supabase` |
+| <img src="assets/icons/zeno.png" width="40" alt="Zeno icon" /> | **[zeno](https://github.com/ysta32/ZenoStableCoin)** | pay your team anywhere with stablecoins | `react` `typescript` `vite` |
+| <img src="assets/icons/swiffle.png" width="40" alt="Swiffle icon" /> | **[swiffle](https://swiffle.vercel.app)** | sat practice where speed scores points | `react` `express` `socket.io` |
 
 ## 🧰 toolbox
 
