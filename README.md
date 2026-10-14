@@ -25,7 +25,7 @@ stanley = {
     "school":    "Penn SEAS, CIS BSE '30 (AI concentration)",
     "builds":    ["Mac apps", "AI agents", "custom PCBs", "embedded systems"],
     "speaks":    ["Python", "Java", "C#", "Swift", "TypeScript"],
-    "right_now": "an AI to-do app that talks to Canvas, Google Calendar, Gmail and Claude",
+    "right_now": "an AI coach that watches you work out over FaceTime and counts every rep",
 }
 ```
 
@@ -33,6 +33,8 @@ stanley = {
 
 | | project | what it does | stack |
 | :-: | :-- | :-- | :-- |
+| <img src="assets/icons/brodie.png" width="40" alt="Brodie icon" /> | **[brodie](https://brodie-for-coaches.vercel.app)** <sub>new</sub> | an ai coach that watches your form over facetime | `next.js` `livekit` `mediapipe` |
+| <img src="assets/icons/fleet.png" width="40" alt="Fleet icon" /> | **[fleet](https://github.com/ysta32/fleet)** <sub>new</sub> | mission control for a small army of claude agents | `typescript` `three.js` `node` |
 | <img src="assets/icons/cue.png" width="40" alt="Cue icon" /> | **[cue](https://cue-planner.vercel.app)** | a mac planner you just talk to | `swiftui` `fastapi` `claude` |
 | <img src="assets/icons/ramble.png" width="40" alt="Ramble icon" /> | **[ramble](https://ramble-plum.vercel.app)** | voice memos in, to-dos and ideas out | `next.js` `typescript` `supabase` |
 | <img src="assets/icons/squash.png" width="40" alt="Squash icon" /> | **[squash](https://squash-livid.vercel.app)** | bug reports that pop up live for your cofounder | `react` `typescript` `supabase` |
