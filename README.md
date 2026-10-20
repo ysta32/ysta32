@@ -25,7 +25,6 @@ stanley = {
     "school":    "Penn SEAS, CIS BSE '30 (AI concentration)",
     "builds":    ["Mac apps", "AI agents", "custom PCBs", "embedded systems"],
     "speaks":    ["Python", "Java", "C#", "Swift", "TypeScript"],
-    "right_now": "an AI coach that watches you work out over FaceTime and counts every rep",
 }
 ```
 
