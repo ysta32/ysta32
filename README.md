@@ -33,7 +33,7 @@ stanley = {
 | | project | what it does | stack |
 | :-: | :-- | :-- | :-- |
 | <img src="assets/icons/remi.png" width="40" alt="Remi icon" /> | **[remi](https://remi-two-pearl.vercel.app)** <sub>new</sub> | an ai companion that facetimes grandparents and keeps family in the loop | `next.js` `livekit` `openai realtime` |
-| <img src="assets/icons/brodie.png" width="40" alt="Brodie icon" /> | **[brodie](https://brodie-for-coaches.vercel.app)** <sub>new</sub> | an ai coach that watches your form over facetime | `next.js` `livekit` `mediapipe` |
+| <img src="assets/icons/brodie.png" width="40" alt="Brodie icon" /> | **[brodie](https://brodie-pushups.vercel.app)** <sub>new</sub> | a push-up challenge where an ai judges your reps live over facetime | `next.js` `livekit` `mediapipe` |
 | <img src="assets/icons/fleet.png" width="40" alt="Fleet icon" /> | **[fleet](https://github.com/ysta32/fleet)** <sub>new</sub> | mission control for a small army of claude agents | `typescript` `three.js` `node` |
 | <img src="assets/icons/cue.png" width="40" alt="Cue icon" /> | **[cue](https://cue-planner.vercel.app)** | a mac planner you just talk to | `swiftui` `fastapi` `claude` |
 | <img src="assets/icons/ramble.png" width="40" alt="Ramble icon" /> | **[ramble](https://ramble-plum.vercel.app)** | voice memos in, to-dos and ideas out | `next.js` `typescript` `supabase` |
